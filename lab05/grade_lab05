@@ -1,0 +1,10 @@
+directory structure	1
+compiles		1
+dynamic compiles		0
+correct static_library		1
+correct dynamic_library		0
+correct Makefile		1
+==============================
+Final	4
+
+Missing "lab5_dyn" when define "all" so lab5_dyn was not compiled

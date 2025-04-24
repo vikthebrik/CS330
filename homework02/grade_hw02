@@ -1,0 +1,12 @@
+directory structure	1
+source file		1
+header file		1
+compiles		1
+auto testing 1		0
+auto testing 2		0
+auto testing 3		0
+auto testing 4		0
+==============================
+Final	4
+
+Auto grader gives you 4/20, but I inspected your code and you did not type cast your variables, causing the sum to overflow. Make sure you run diff before you submit. Your final grade is 15/20.
